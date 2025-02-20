@@ -5,7 +5,6 @@ scikit-learn
 streamlit
 matplotlib
 seaborn
-pickle
 fitz
 streamlit
 pymupdf
