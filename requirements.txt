@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+scikit-learn
+streamlit
+matplotlib
+seaborn
+pickle
+fitz
+streamlit
+pymupdf
