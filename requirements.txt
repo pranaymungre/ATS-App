@@ -6,5 +6,4 @@ streamlit
 matplotlib
 seaborn
 fitz
-streamlit
 pymupdf
