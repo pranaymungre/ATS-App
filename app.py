@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-import fitz  # PyMuPDF for PDF processing
+import fitz  
 import re
 import string
 import nltk
